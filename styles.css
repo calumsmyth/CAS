@@ -15,20 +15,17 @@ body{
 }
 
 .hero h1{
-    margin-left: 50px;
-    margin-right: 50px;
     margin-bottom: 0px;
     text-shadow: 
     -3px -1px 0 #000,   
      1px -1px 0 #000,  
     -3px  1px 0 #000, 
     1px  1px 0 #000;   
-    border-radius: 5px;
 }
 
 .hero h2 {
     margin-top: 0px;
-    font-size: 24px;;
+    font-size: 20px;;
     text-shadow: 
     -1px -1px 0 #000,   
      1px -1px 0 #000,  
@@ -101,7 +98,7 @@ body{
 }
 
 .self-photo {
-    height: 520px;
+    height: 550px;
     margin: 20px;
     border-radius: 20px;
     border: solid, 6px, rgb(255, 191, 106);
