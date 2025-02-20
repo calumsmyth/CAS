@@ -11,6 +11,7 @@ body{
     align-items: center;
     font-size: 28px;
     color: rgb(255, 191, 106);
+    min-height:200px;
     border-radius: 5px;
 }
 
