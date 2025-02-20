@@ -124,14 +124,18 @@ body{
 .more-info {
     border-radius: 5px;
     background-color: rgb(5, 177, 177);
+    display: flex;
+    justify-content: center;
 }
 
 .tech-stack-list {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin-top: 80px;
+    align-items: flex-start;
     color: white;
     padding: 30px;
+}
+
+.tech-stack-list li {
+    padding-left: 20px;
 }
