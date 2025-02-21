@@ -109,14 +109,15 @@ body{
     justify-content: space-between;
     align-items: center;
     background-color: white;
+    padding: 80px;
 }
 
 .self-photo {
     height: 300px;
     width: auto;
-    margin: 20px;
     border-radius: 20px;
     border: solid, 6px, rgb(255, 191, 106);
+    margin-left: 30px;
 }
 
 .self-photo:hover {
@@ -127,7 +128,7 @@ body{
     display: flex;
     flex-direction: column;
     margin-left: 100px;
-    margin-right: 100px;
+    margin-right:30px;
 }
 
 .intro-text h2{
