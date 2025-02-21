@@ -109,7 +109,7 @@ body{
     justify-content: space-between;
     align-items: center;
     background-color: white;
-    padding: 80px;
+    padding: 40px;
 }
 
 .self-photo {
@@ -128,7 +128,7 @@ body{
     display: flex;
     flex-direction: column;
     margin-left: 100px;
-    margin-right:30px;
+    margin-right:20px;
 }
 
 .intro-text h2{
