@@ -113,6 +113,8 @@ body{
     align-items: center;
     background-color: white;
     padding: 40px;
+    padding-left:100px;
+    padding-right: 100px;
 }
 
 .self-photo {
@@ -219,4 +221,32 @@ body{
 
 .socials img{
     margin-right: 6px;
+}
+
+.main-body h5{
+    margin-top:2px;
+    margin-bottom: 2px;
+    font-style: italic;
+}
+
+.main-body form{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.main-body p{
+    margin-bottom: 12px;
+    margin-top: 8px;
+}
+
+.main-body input{
+    width:200px;
+}
+
+.main-body textarea{
+    height: 60px;
+    width: 280px;
+    margin-bottom: 4px;
 }
